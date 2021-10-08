@@ -1,0 +1,20 @@
+/*
+Seção 2 - Exercício 4
+
+Faça um algoritmo para trocar uma lâmpada.
+Descreva os detalhes
+*/
+
+"Trocar Lâmpada"
+
+Desligar o interruptor de luz
+Desligar o disjuntor no quadro de distribuição para a segurança
+Pegar uma escada
+armar a escada e verificar a segurança da mesma
+Pegar a lâmpada nova
+Subir na escada com a lâmpada nova
+Retirar a lâmpada queimada
+Colocar a nova lâmpada
+Descer da escada
+Ligar o disjuntor
+ligar o interruptor de luz
