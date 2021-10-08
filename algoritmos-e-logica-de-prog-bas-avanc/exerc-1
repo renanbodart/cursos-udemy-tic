@@ -1,0 +1,25 @@
+*/
+Seção 2 - Exercício 1
+
+Crie uma sequência lógica para tomar banho.
+*/
+
+Algoritmo para "tomar banho"
+
+Entrar no banheiro
+Retirar as roupas
+Abrir o box do banheiro e entrar no mesmo
+Abrir a válvula do chuveiro
+Molhar o corpo com a água
+Fechar a válvula do chuveiro para economizar a água
+Pegar o sabão e ensaboar o corpo e lavar as partes do corpo
+Pegar o shampoo e utilizar nos cabelos
+Abrir a válvula do chuveiro novamente
+Exaguar o corpo e remover o sabão e o shampoo
+Fechar a válvula do chuveiro
+Sair do box
+Enxugar o corpo
+Utilizar o desodorante e perfume
+Pentear os cabelos
+Vestir as roupas
+Sair do banheiro
