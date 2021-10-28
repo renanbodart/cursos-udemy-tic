@@ -1,0 +1,12 @@
+/*
+Seção 4 - Exercício 4 (referente a seção 3)
+
+Faça um algoritmo que peça dois números e imprima a soma
+*/
+
+"somar"
+
+receber primeiro_numero
+receber segundo_numero
+somar primeiro_numero e segundo_numero
+mostrar o resultado da soma

@@ -1,0 +1,16 @@
+/*
+Seção 4 - Exercício 3 (referente a seção 3)
+
+Teste o algoritmo do exercício 3 com dados definidos por você.
+
+*/
+
+estoque_medio = (quantidade_minima + quantidade_maxima) / 2
+
+________________________________________________________
+|Quantidade mínima | Quantidade máxima | Estoque médio |
+|------------------|-------------------|---------------|
+|       10         |        10         |        10     |
+|------------------|-------------------|---------------|
+|       256        |        512        |        384    |
+|------------------|-------------------|---------------| 

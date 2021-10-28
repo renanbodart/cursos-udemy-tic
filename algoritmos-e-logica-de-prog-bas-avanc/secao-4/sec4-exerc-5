@@ -1,0 +1,12 @@
+/*
+Seção 4 - Exercício 5 (referente a seção 3)
+
+Faça um algortimo que converta metros para centímetros.
+
+*/
+
+"Converter metros => centímetros"
+
+receber tamanho em metros
+dividir o tamanho em metros por 100
+mostrar resultado
