@@ -1,0 +1,33 @@
+/*
+Seção 4 - Exercícios rederentes a seção 3
+*/
+
+1 - Identifique os dados de entrada, processamento e saída no algoritmo abaixo:
+
+Receber o código da peça
+Receber o valor da peça
+Receber a quantidade de peças
+Calcular o valor total da peça (quantidade * valor da peça)
+Mostrar o código da peça e o seu valor total
+
+
+2 - Faça um algoritmo para "Calcular o estoque médio de uma peça", sendo que:
+
+estoque médio = (quantidade mínima + quantidade máxima) / 2
+
+
+3 - Teste o algoritmo anterior com os dados definidos por você
+
+
+4 - Faça um algoritmo que peça dois números e imprima a soma.
+
+
+5 - Faça um algoritmo que converta metros para centímetros.
+
+
+6 - Faça um algoritmo que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no mês referido.
+
+
+7 - Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule o seu peso ideal, usando a seguinte fórmula:
+
+(72.7 * altura) - 58
